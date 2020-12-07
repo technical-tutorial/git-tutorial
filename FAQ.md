@@ -4,6 +4,8 @@
 
 > 在默认情况下，中文文件名在工作区中输出显示为八进制的字母编码，导致不能正确显示中文名
 
+![中文乱码图片](https://user-images.githubusercontent.com/27407218/101326436-36cd0880-38a8-11eb-9b49-cde315821892.png)
+
 在 Git Bash Here 中输入命令:
 
 ```
