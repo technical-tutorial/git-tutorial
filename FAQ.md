@@ -11,3 +11,20 @@
 ```
 git config --global core.quotepath false
 ```
+
+### 2.使用 homebrew 安装 Git 未成功，依然使用的是 Apple 自带的 Git，如何解决？
+
+- 首先查看 Git 版本如下，说明使用的 Git 还是 Apple 自带的版本:
+
+```
+$ git version
+git version 2.24.3 (Apple Git-128)
+```
+
+- 然后在`.bash_profile`或者`.zshrc`(没有配置文件的话，则在用户目录下新建即可)中加入`export PATH="/usr/local/bin:${PATH}"`
+
+- 再执行
+
+```
+$ source ~/.bash_profile  # 或者 .zshrc
+```
