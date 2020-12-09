@@ -2,13 +2,15 @@
 
 dos2unix 官网地址: [https://waterlan.home.xs4all.nl/dos2unix.html](https://waterlan.home.xs4all.nl/dos2unix.html)
 
-
 ### 在Linux上安装dos2unix
 
 #### Ubuntu
 
-##### 1.
+##### 1.在 Terminal 中输入下面命令
 
+```
+$ sudo apt-get install dos2unix
+```
 
 ### 在macOS上安装dos2unix
 
