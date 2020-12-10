@@ -38,19 +38,19 @@ $ brew install dos2unix
 
 `unix2dos`: 将文本文件从 UNIX 格式转换为 DOS 格式
 
-### 将 DOS 文件转换为 UNIX 格式
+- 将 DOS 文件转换为 UNIX 格式
 
 ```
 $ dos2unix <filename>...
 ```
 
-### 将 UNIX 文件转换为 DOS 格式
+- 将 UNIX 文件转换为 DOS 格式
 
 ```
 $ unix2dos <filename>...
 ```
 
-### 批量转换当前文件夹下的文件格式
+- 批量转换当前文件夹下的文件格式
 
 ```
 $ find . -type f -print0 | xargs -0 dos2unix # 也可以是 unix2dos
