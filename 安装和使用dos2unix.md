@@ -28,6 +28,12 @@ $ brew install dos2unix
 
 ### 在Windows上安装dos2unix
 
-> 在Windows的MinGW64 Git Bash Here客户端上自带
+>在Windows的MinGW64 Git Bash Here客户端上自带
 
 ## 使用dos2unix
+
+文本文件在 DOS 和 UNIX 格式之间相互转换 
+
+`dos2unix`: 将文本文件从 DOS 格式转换为 UNIX 格式
+
+
