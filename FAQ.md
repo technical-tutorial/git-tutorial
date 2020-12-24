@@ -42,6 +42,7 @@ $ vim ~/.zshrc
 - 输入以下内容，并保存
 
 ```
+# 终端国际化语言转化(cn_ZH)
 export LC_ALL=en_US.UTF-8 
 export LANG=en_US.UTF-8
 ```
