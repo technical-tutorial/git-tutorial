@@ -1,5 +1,7 @@
 # 使用vscode作为默认文本编辑器、文件对比程序和Merge Tool
 
+[参考答案链接](https://stackoverflow.com/questions/44549733/how-to-use-visual-studio-code-as-the-default-editor-for-git-mergetool)
+
 #### 1. 安装 vscode
 
 链接地址：https://code.visualstudio.com/
