@@ -1,4 +1,4 @@
-# 使用vscode作为默认文本编辑器和文件对比程序和Merge Tool
+# 使用vscode作为默认文本编辑器、文件对比程序和Merge Tool
 
 #### 1. 安装 vscode
 
